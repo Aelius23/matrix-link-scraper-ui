@@ -87,7 +87,7 @@ python main.py
 - Matrix tokens **expire often** – you'll need to refresh them periodically  
 - Initial scraping takes **40–60 seconds**  
 - PDF generation takes **1–2 minutes**  
-- Music cannot currently be disabled (you may edit the HTML to remove autoplay)  
+- Music cannot currently be disabled (you may edit the HTML to remove autoplay)  >:)
 
 ---
 
