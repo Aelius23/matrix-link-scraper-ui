@@ -1,6 +1,9 @@
-# 🔸 Matrix Link Scraper UI
+# 🔸 Matrix Channel Link Scraper UI
 
 A retro-styled web app for scraping links from Matrix channels and generating downloadable PDFs with page titles — featuring an animated frog mascot, tile backgrounds, and *Black Hole Sun* as MIDI.
+
+What is matrix? https://matrix.org/
+What is the Fediverse? https://en.wikipedia.org/wiki/Fediverse
 
 ---
 
